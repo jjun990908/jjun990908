@@ -8,10 +8,10 @@
 
 | 기간 | 내용 |
 | --- | --- |
-| 2023.07 ~ | Hyundai Softeer Bootcamp Frontend 2nd |
-| 2023.03 ~ 2023.06 | 나만의 작은 복지사, AI기반 노인 건강 관제 서비스 '<a href="https://github.com/jjun990908/capstone-2023-11">복실이</a>' Frontend 개발| |
+| 2018.02 ~ | 국민대학교 소프트웨어학부 소프트웨어 융합학부 재학 |
 | 2019.12 ~ 2020.02 | 칼림바 튜닝 및 연주 기능 애플리케이션 '<a href="https://github.com/jjun990908/Tuner">스마트칼림바</a>' Android App 개발 |
-| 2018.02 ~ | 국민대학교 소프트웨어학부 재학 |
+| 2023.03 ~ 2023.06 | 나만의 작은 복지사, AI기반 노인 건강 관제 서비스 '<a href="https://github.com/jjun990908/capstone-2023-11">복실이</a>' Frontend 개발| |
+| 2023.07 ~ | Hyundai Softeer Bootcamp Frontend 2nd |
 
 <h2> 🏆 Awards </h2>
 🥇 국민대학교 캡스톤디자인 '복실이' <a href="https://final.capstone.cs.kookmin.ac.kr/">1등상</a> </br> 
