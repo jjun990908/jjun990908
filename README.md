@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&fontColor=00b894&color=81ecec&text=Welcome&animation=fadeIn&height=150&fontSize=60&desc=I'm%20JunYoung%20&descAlignY=75&descAlign=60)
 <br/>
 <h2> 🌱About Me!  </h2>
-음악과 협업하는 프론트엔드 개발자입니다:blush:
+음악듣기 좋아하는 프론트엔드 개발자입니다:blush:
  
  </br>
 <h2> 💻 Experience & Projects </h2>
@@ -30,6 +30,7 @@
 
 </br>
 
+<!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjun990908&count_bg=%2379C83D&title_bg=%23555555&icon=angellist.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br/></br> </br> 
 <!--
