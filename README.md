@@ -11,11 +11,12 @@
 | 2018.02 ~ | 국민대학교 소프트웨어학부 재학 |
 | 2019.12 ~ 2020.02 | 칼림바 튜닝 및 연주 기능 애플리케이션 '<a href="https://github.com/jjun990908/Tuner">스마트칼림바</a>' Android App 개발 |
 | 2023.03 ~ 2023.06 | 나만의 작은 복지사, AI기반 노인 건강 관제 서비스 '<a href="https://github.com/jjun990908/capstone-2023-11">복실이</a>' Frontend 개발| |
-| 2023.07 ~ | 현대 소프티어 부트캠프 Frontend 2nd |
+| 2023.07 ~ 2023.08 | 현대자동차그룹 소프티어 부트캠프 2기 Frontend 수료|
 
 <h2> 🏆 Awards </h2>
 🥇 국민대학교 캡스톤디자인 '복실이' <a href="https://final.capstone.cs.kookmin.ac.kr/">1등상</a> </br> 
-🥇 구글 플레이스토어 '스마트칼림바' <a href="https://play.google.com/store/apps/details?id=com.cookandroid.tuner&hl=ko-KR">100만 다운로드</a>
+🥇 구글 플레이스토어 '스마트칼림바' <a href="https://play.google.com/store/apps/details?id=com.cookandroid.tuner&hl=ko-KR">100만 다운로드</a></br> 
+🥇 HMG SOFTEER BOOTCAMP 2023 최우수 소프티어 수상
 <h2> 🛠️ Stacks </h2>
 <div>
   <img src ="https://img.shields.io/badge/REACT-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
