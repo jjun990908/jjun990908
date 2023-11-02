@@ -14,7 +14,8 @@
 | 2023.07 ~ 2023.08 | 현대자동차그룹 소프티어 부트캠프 2기 Frontend 수료|
 
 <h2> 🏆 Awards </h2>
-🥇 국민대학교 캡스톤디자인 '복실이' <a href="https://final.capstone.cs.kookmin.ac.kr/">1등상</a> </br> 
+🥇 2023 OO대학교 캡스톤디자인 소프트웨어 경진대회 '복실이' <a href="https://final.capstone.cs.kookmin.ac.kr/">1등상</a> </br>
+🥇 2023 캡스톤디자인 아이디어 경진대회 우수상 </br>
 🥇 구글 플레이스토어 '스마트칼림바' <a href="https://play.google.com/store/apps/details?id=com.cookandroid.tuner&hl=ko-KR">100만 다운로드</a></br> 
 🥇 HMG SOFTEER BOOTCAMP 2023 최우수 소프티어 수상
 <h2> 🛠️ Stacks </h2>
@@ -28,8 +29,9 @@
   <img alt="RED" src ="https://img.shields.io/badge/Python-blue.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
   <img alt="RED" src ="https://img.shields.io/badge/JAVA-004027.svg?&style=for-the-badge&logo=Jameson&logoColor=white"/>
 </div>
-
 </br>
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjun990908)](https://solved.ac/jjun990908) [![mazandi profile](http://mazandi.herokuapp.com/api?handle=jjun990908)](https://solved.ac/jjun990908)
 
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjun990908&count_bg=%2379C83D&title_bg=%23555555&icon=angellist.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
