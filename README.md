@@ -17,7 +17,8 @@
 🥇 2023 OO대학교 캡스톤디자인 소프트웨어 경진대회 '복실이' <a href="https://final.capstone.cs.kookmin.ac.kr/">1등상</a> </br>
 🥇 2023 캡스톤디자인 아이디어 경진대회 우수상 </br>
 🥇 구글 플레이스토어 '스마트칼림바' <a href="https://play.google.com/store/apps/details?id=com.cookandroid.tuner&hl=ko-KR">100만 다운로드</a></br> 
-🥇 HMG SOFTEER BOOTCAMP 2023 최우수 소프티어 수상
+🥇 HMG SOFTEER BOOTCAMP 2023 최우수 소프티어 수상</br> 
+🥇 2023 대한민국 디지털 인재 페스티벌 우수상 수상
 <h2> 🛠️ Stacks </h2>
 <div>
   <img src ="https://img.shields.io/badge/REACT-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
